@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-zero-peak/ZeroOmega|zeroomega-3.4.5.crx
+netchx/netch|Netch.7z
