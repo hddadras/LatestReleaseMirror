@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="zero-peak--zeroomega"></div>
+<div id="netchx--netch"></div>
 
-### zero-peak--ZeroOmega
+### netchx--netch
 
-🔗 [source](https://github.com/zero-peak/ZeroOmega) – [<code><small>v3.4.5</small></code>](https://github.com/zero-peak/ZeroOmega/releases/tag/v3.4.5)
+🔗 [source](https://github.com/netchx/netch) – [<code><small>1.9.7</small></code>](https://github.com/netchx/netch/releases/tag/1.9.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `zeroomega-3.4.5.crx` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx) |
-| `zeroomega-3.4.5.crx.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx.sha256) |
+| `Netch.7z` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/netchx/netch/Netch.7z) |
 <!-- RELEASES_END -->
