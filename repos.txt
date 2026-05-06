@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-tun2proxy/tun2proxy|tun2proxy-x86_64-pc-windows-msvc.zip
+xjasonlyu/tun2socks|tun2socks-windows-amd64.zip
