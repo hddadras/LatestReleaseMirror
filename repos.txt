@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-netchx/netch|Netch.7z
+tun2proxy/tun2proxy|tun2proxy-x86_64-pc-windows-msvc.zip
