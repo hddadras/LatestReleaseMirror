@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="netchx--netch"></div>
+<div id="tun2proxy--tun2proxy"></div>
 
-### netchx--netch
+### tun2proxy--tun2proxy
 
-🔗 [source](https://github.com/netchx/netch) – [<code><small>1.9.7</small></code>](https://github.com/netchx/netch/releases/tag/1.9.7)
+🔗 [source](https://github.com/tun2proxy/tun2proxy) – [<code><small>v0.7.21</small></code>](https://github.com/tun2proxy/tun2proxy/releases/tag/v0.7.21)
 
 | File | Size | Download |
 |------|------|----------|
-| `Netch.7z` | 57.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/netchx/netch/Netch.7z) |
+| `tun2proxy-x86_64-pc-windows-msvc.zip` | 5.1 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/tun2proxy/tun2proxy/tun2proxy-x86_64-pc-windows-msvc.zip) |
 <!-- RELEASES_END -->
