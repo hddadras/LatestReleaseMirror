@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="tun2proxy--tun2proxy"></div>
+<div id="xjasonlyu--tun2socks"></div>
 
-### tun2proxy--tun2proxy
+### xjasonlyu--tun2socks
 
-🔗 [source](https://github.com/tun2proxy/tun2proxy) – [<code><small>v0.7.21</small></code>](https://github.com/tun2proxy/tun2proxy/releases/tag/v0.7.21)
+🔗 [source](https://github.com/xjasonlyu/tun2socks) – [<code><small>v2.6.0</small></code>](https://github.com/xjasonlyu/tun2socks/releases/tag/v2.6.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `tun2proxy-x86_64-pc-windows-msvc.zip` | 5.1 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/tun2proxy/tun2proxy/tun2proxy-x86_64-pc-windows-msvc.zip) |
+| `tun2socks-windows-amd64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/xjasonlyu/tun2socks/tun2socks-windows-amd64.zip) |
 <!-- RELEASES_END -->
