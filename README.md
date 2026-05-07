@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="xjasonlyu--tun2socks"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### xjasonlyu--tun2socks
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/xjasonlyu/tun2socks) – [<code><small>v2.6.0</small></code>](https://github.com/xjasonlyu/tun2socks/releases/tag/v2.6.0)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.16</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.16)
 
 | File | Size | Download |
 |------|------|----------|
-| `tun2socks-windows-amd64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/xjasonlyu/tun2socks/tun2socks-windows-amd64.zip) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 <!-- RELEASES_END -->
