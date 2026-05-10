@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="fibogacci--python314t-for-termux"></div>
 
-### Fibogacci--python314t-for-termux
-
-🔗 [source](https://github.com/Fibogacci/python314t-for-termux) – [<code><small>v3.14.0</small></code>](https://github.com/Fibogacci/python314t-for-termux/releases/tag/v3.14.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `termux-python314t-3.14.0.tar.gz` | 22.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/Fibogacci/python314t-for-termux/termux-python314t-3.14.0.tar.gz) |
 <!-- RELEASES_END -->
