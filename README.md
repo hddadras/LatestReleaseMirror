@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="fibogacci--python314t-for-termux"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### Fibogacci--python314t-for-termux
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
+🔗 [source](https://github.com/Fibogacci/python314t-for-termux) – [<code><small>v3.14.0</small></code>](https://github.com/Fibogacci/python314t-for-termux/releases/tag/v3.14.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-universal-v1.9.17.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.17.apk) |
+| `termux-python314t-3.14.0.tar.gz` | 22.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/Fibogacci/python314t-for-termux/termux-python314t-3.14.0.tar.gz) |
 <!-- RELEASES_END -->
