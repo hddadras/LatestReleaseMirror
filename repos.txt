@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-AriPath/MHRWindowsApp|MasterVPN.zip
+ajavadinezhad/zyrln|zyrln-1.5.1-pre5.apk
