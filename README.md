@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="aripath--mhrwindowsapp"></div>
 
-### AriPath--MHRWindowsApp
-
-🔗 [source](https://github.com/AriPath/MHRWindowsApp) – [<code><small>MasterVPN</small></code>](https://github.com/AriPath/MHRWindowsApp/releases/tag/MasterVPN)
-
-| File | Size | Download |
-|------|------|----------|
-| `MasterVPN.zip` | 34.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hddadras/LatestReleaseMirror/main/releases/AriPath/MHRWindowsApp/MasterVPN.zip) |
 <!-- RELEASES_END -->
