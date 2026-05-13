@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-SagerNet/sing-box|sing-box-1.14.0-alpha.23-windows-amd64.zip
+MaxiFan/TunnelX
