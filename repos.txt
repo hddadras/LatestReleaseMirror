@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-MaxiFan/TunnelX
+shirokhorshid/shirokhorshid-android|ShirOKhorshid-2026.05.14.apk
